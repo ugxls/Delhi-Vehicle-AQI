@@ -8,8 +8,6 @@ This data analysis project focused on Delhi, India from 2015 to 2020 aims to det
 ### Table of Contents 
 - [Datasets](#datasets)
 - [Tools and Libraries](#tools-and-libraries)
-Installation 
-Usage
 Project Structure 
 Analysis
 Results
