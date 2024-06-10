@@ -1,17 +1,19 @@
 # Delhi-Vehicle-AQI
 
-## Project Overview
----
-
-This data analysis project focused on Delhi, India from 2015 to 2020 aims to determine the major air pollutant(s), its effect on the Air Quality Index (AQI) Bucket, explore the trend of the major air pollutant(s) over the years—study vehicle activities in Delhi and establish vehicular activities as the cause of high levels of pollutants in the air and the impact on the AQI.
-
 ### Table of Contents
+- [Project Overview](#project-overview)
 - [Datasets](#datasets)
 - [Tools and Libraries](#tool-and-libraries)
 - [Methods and Analysis](#methods-and-analysis)
 - [Results/Findings](#resultsfindings)
 - [Conclusion](#conclusion)
 - [Contributions](contributions)
+
+### Project Overview
+---
+
+This data analysis project focused on Delhi, India from 2015 to 2020 aims to determine the major air pollutant(s), its effect on the Air Quality Index (AQI) Bucket, explore the trend of the major air pollutant(s) over the years—study vehicle activities in Delhi and establish vehicular activities as the cause of high levels of pollutants in the air and the impact on the AQI.
+
 
 ### Datasets
 1. [Air Quality Index (AQI) Data:](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india/data) AQI readings for major air pollutants in cities of India from 2015 to 2020
