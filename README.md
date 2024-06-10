@@ -40,7 +40,7 @@ This data analysis project focused on Delhi, India from 2015 to 2020 aims to det
 The analysis of data from 2015 to 2020 and [relevant literature](https://doi.org/10.4103/0970-0218.106617) emphasizes the significant impact of vehicular activities on Delhi's air quality. Vehicular activities, [including emissions and the dispersion of road dust](https://cerca.iitd.ac.in/uploads/Reports/1576211826iitk.pdf) due to the high volume of vehicles navigating unpaved roads, contribute to high levels of particulate matter in the atmosphere.
 
 ### Contributions 
-Ugochukwu Azubuine
+Ugochukwu (Ug) Azubuine
 
 Mandira Ghimire
 
