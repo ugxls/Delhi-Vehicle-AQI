@@ -17,7 +17,7 @@ This exploratory data analysis project focused on Delhi, India from 2015 to 2020
 
 ### Datasets
 1. [Air Quality Index (AQI) Data:](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india/data) AQI readings for major air pollutants in cities of India from 2015 to 2020
-2. [Vehicle data:](https://data.opencity.in/dataset/delhi-vehicle-registrations-data/resource/c9c2925f-4442-48ee-bacf-543d69931493?view_id=a730e71e-9937-413e-a4b6-6cd87a872c4c) Total nunmber of vechiles in Delhi from 2006 to 2022
+2. [Vehicle data:](https://data.opencity.in/dataset/delhi-vehicle-registrations-data/resource/c9c2925f-4442-48ee-bacf-543d69931493?view_id=a730e71e-9937-413e-a4b6-6cd87a872c4c) Total number of vechiles in Delhi from 2006 to 2022
 
 ### Tool and Libraries 
 - Python
