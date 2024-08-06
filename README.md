@@ -1,5 +1,8 @@
 # Delhi-Vehicle-AQI
 
+![AQI Photo](https://github.com/user-attachments/assets/5094a59e-a46b-4f3c-a195-f9aa2159a47c)
+
+
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Datasets](#datasets)
